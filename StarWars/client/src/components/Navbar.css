@@ -1,0 +1,31 @@
+.navbar{
+  background-color: #000000!important;
+  align-items: center;
+}
+
+.nav-link{
+  color: #d9b61c !important;
+}
+
+.navbar-brand{
+  color: #d9b61c !important;
+  font-size: xx-large;
+  font-weight: 500;
+  padding-left: 40px;
+}
+
+.navbar-nav{
+  margin-left: auto;
+  padding-right: 40px;
+  color: #d9b61c !important;
+}
+
+.some{
+  margin-left: 500px;
+}
+
+.some a{
+  color: #d9b61c !important;
+  padding: 30px;
+  font-weight: 500;
+}

@@ -1,0 +1,29 @@
+.hero {
+  background-image: url('https://t4.ftcdn.net/jpg/01/23/17/13/360_F_123171377_H89YRmICSVdLq4YGiEhhTZQD7Xa7JSwQ.jpg');
+  padding-top: 20px;
+  color: #000;
+}
+
+.filter {
+  box-shadow: rgba(0, 0, 0, 0.5) 0px 3px 8px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #1a1a1a;
+  border: 1px solid #d9b61c; 
+  color: #fff;
+}
+
+.search input, .form-select {
+  background-color: #333;
+  border: 1px solid #ccc;
+  color: #fff;
+}
+
+.search input{
+  margin-bottom: 10px;
+}
+
+.search input:focus, .form-select:focus {
+  border-color: #ffd700;
+  box-shadow: 0 0 5px rgba(255, 215, 0, 0.5);
+}
